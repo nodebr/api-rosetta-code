@@ -4,7 +4,7 @@ require "rubygems"
 require "net/https"
 require "simple_oauth"
 
-# Configurating credentials
+# Configuring credentials
 credentials = File.read(File.expand_path("../../../credentials.txt")).split("\n");
 keys = {
   :consumer_key => credentials[0],

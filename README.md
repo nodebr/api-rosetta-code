@@ -12,17 +12,7 @@ The samples are organized as follows:
       |  |- language2
       |  \- language2-library3
       \- use case 2
-         \- ...
-
-Some rules are followed:
-
-* All samples must run as standalone code
-* There must be clear instructions on how to install dependencies and execute it
-* There should be a script or dependency manager to install dependencies
-* The sample code always load credentials from credentials.txt file
-* The output must to be the raw JSON returned by the request
-* Keep use cases simple and short, one request only, single file (if possible)
-* Don't abuse on code comments, but write a legible code
+         \- ..
 
 ## Quick start
 
@@ -34,4 +24,12 @@ Some rules are followed:
 * Read the code
 * Report found bugs
 
+## Contributing
 
+* All samples must run as standalone code
+* There must be clear instructions on how to install dependencies and execute it
+* There should be a script or dependency manager to install dependencies
+* The sample code always load credentials from credentials.txt file
+* The output must to be the raw JSON returned by the request
+* Keep use cases simple and short, one request only, single file (if possible)
+* Don't abuse on code comments, but write a legible code
