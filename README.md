@@ -33,3 +33,4 @@ The samples are organized as follows:
 * The output must to be the raw JSON returned by the request
 * Keep use cases simple and short, one request only, single file (if possible)
 * Don't abuse on code comments, but write a legible code
+* Reuse the template folder to create new use cases or samples
