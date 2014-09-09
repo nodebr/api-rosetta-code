@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    simple_oauth (0.2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  simple_oauth
