@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Any sample is executed via this script
+# And it can be in any language
+# Always load credentials from text file in repo root
+# Just print the raw resulting output at the end
+
