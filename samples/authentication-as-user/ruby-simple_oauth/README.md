@@ -13,3 +13,6 @@ Run the script
 
     $ ./execute.rb
 
+## References
+
+* https://github.com/laserlemon/simple_oauth
