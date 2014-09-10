@@ -1,4 +1,4 @@
-# Authentication as User
+# GET users/show
 
 * Language: ruby (1.8.7, 1.9.3, 2.0.0, 2.1) 
 * Dependencies: twitter
