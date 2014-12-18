@@ -14,6 +14,8 @@ The samples are organized as follows:
       \- use case 2
          \- ..
 
+This is a working in progress, your contribution is more than welcomed.
+
 ## Quick start
 
 * Copy `credentials.txt.sample` to `credentials.txt`
