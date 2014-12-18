@@ -1,5 +1,5 @@
-Twitter Rosetta Code
-====================
+API Rosetta Code
+================
 
 A collection of standalone samples of Twitter API resources implemented in several languages and combinations of libraries that abstract Twitter API access.
 
