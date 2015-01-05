@@ -42,5 +42,5 @@ This is a working in progress, your contribution is more than welcomed.
 *  `01/05/2015 ` [Node.js dojo][0] by [@NodeBR][1] and [@TwitterDevBR][2].
 
 [0]: http://www.meetup.com/NodeBR-Sao-Paulo/events/219499217
-[2]: https://twitter.com/nodebr
-[3]: https://twitter.com/twitterdevbr
+[1]: https://twitter.com/nodebr
+[2]: https://twitter.com/twitterdevbr
